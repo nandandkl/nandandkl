@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandan</h1>
-<h3 align="center">Learning, Coding and Innovating</h3>
+<h3 align="center">Passionate about learning, coding, and turning ideas into innovation.</h3>
 
 
 
